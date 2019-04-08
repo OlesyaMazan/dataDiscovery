@@ -27,12 +27,4 @@ p{
 
    }
 
-   a.rollover {
-    background: url(dundas.jpg); /* Путь к файлу с исходным рисунком  */
-    display: block; /*  Рисунок как блочный элемент */
-    width: 196px; /* Ширина рисунка */
-    height: 183px; /*  Высота рисунка */
-   }
-   a.rollover:hover {
-    background: url(MainPage.jpg); /* Путь к файлу с заменяемым рисунком  */
-   }
+   
