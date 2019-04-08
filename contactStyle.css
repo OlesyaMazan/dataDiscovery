@@ -1,0 +1,18 @@
+body{
+	background: url(1.jpg) no-repeat fixed center;
+	-webkit-background-size: 100%; 
+}
+.content{
+	padding: 20px 20px 20px 20px;	
+	margin: 20px auto;
+	width: 60%;
+	font-family: 'Lobster', cursive;
+	
+}
+
+img {
+  border-radius: 50%;
+}
+
+
+

@@ -1,0 +1,38 @@
+body{
+	background: url(news.jpg) no-repeat fixed center;
+	-webkit-background-size: 100%;
+}
+
+.text{
+	padding: 10px 800px 10px 20px;	
+	margin: 20px auto;
+	width: 40%;
+	font-family: "Source Sans Pro";
+	font-weight: bold;	
+}
+
+h1{
+	font-family: 'Pacifico', cursive;
+	
+	text-align: center;
+}
+p{
+	font-family: 'Indie Flower', cursive;
+}
+
+
+.photo {
+    display: inline-block; /* Строчно-блочный элемент */
+    position: relative; /* Относительное позиционирование */
+
+   }
+
+   a.rollover {
+    background: url(dundas.jpg); /* Путь к файлу с исходным рисунком  */
+    display: block; /*  Рисунок как блочный элемент */
+    width: 196px; /* Ширина рисунка */
+    height: 183px; /*  Высота рисунка */
+   }
+   a.rollover:hover {
+    background: url(MainPage.jpg); /* Путь к файлу с заменяемым рисунком  */
+   }

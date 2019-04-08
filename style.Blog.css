@@ -1,0 +1,43 @@
+body{
+	padding: 0px 20px 0px 20px;	
+	margin: 20px auto;
+	width: 60%;
+	font-family: "Source Sans Pro";
+	background: url(laptop.jpg) no-repeat fixed center;
+	-webkit-background-size: 100%;
+	font-weight: bold;	
+
+	}
+
+ .post{ 	
+	padding: 10px 20px 10px 20px; 	
+ }
+
+.information{
+	background: rgba( 255,240,245, 0.8);
+}
+
+h4{
+	color: #560202;	
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h2{
+	color: #8B0000;
+	font-size: 2rem;
+	text-align: center;
+	
+}
+
+.first{
+	border-left: 5px solid #560202;
+	padding-left: 5px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
